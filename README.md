@@ -1,4 +1,4 @@
-# exercicios-pyhton-brasil
+# Exercicios Pyhton Brasil
 Lista de exercícios da Python Brasil
 
 Link para os exercícios.
